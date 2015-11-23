@@ -52,7 +52,7 @@ margin-bottom: 2rem
 
 
 
-@media only screen and (min-width : 801px) and (max-width : 1024px) {
+@media screen and (min-width : 801px) and (max-width : 1024px) {
 
 	h2 {
 		font-family: 'dejavu_sansextralight';
@@ -98,7 +98,7 @@ margin-bottom: 2rem
 
 
 
-@media only screen and (min-width : 640px) and (max-width : 800px) {
+@media screen and (min-width : 640px) and (max-width : 800px) {
 
 	h2 {
 		font-family: 'dejavu_sansextralight';
@@ -141,7 +141,7 @@ margin-bottom: 2rem
 }
 
 
-@media only screen and (min-width : 360px) and (max-width : 640px) {
+@media screen and (min-width : 360px) and (max-width : 640px) {
 
 	h2 {
 		font-family: 'dejavu_sansextralight';
@@ -179,7 +179,7 @@ margin-bottom: 2rem
 
 }
 
-@media only screen and (max-width : 360px) {
+@media screen and (max-width : 360px) {
 
 	h2 {
 		font-family: 'dejavu_sansextralight';
@@ -228,7 +228,7 @@ margin-bottom: 2rem
 	max-width: 75%;
 }
 
-@media only screen and (min-width : 320px) and (max-width : 1024px) {
+@media screen and (min-width : 320px) and (max-width : 1024px) {
 .row {
 	max-width: 90%;
 }
@@ -250,7 +250,7 @@ margin-bottom: 2rem
   padding-right: 0px;
 }
 
-@media only screen and (min-width : 320px) and (max-width : 640px) {
+@media screen and (min-width : 320px) and (max-width : 640px) {
 
 .align-right {
   padding: 0px;
@@ -274,7 +274,7 @@ margin-bottom: 2rem
     padding-left: 1%;
   }
 
-@media only screen and (max-width : 600px){
+@media screen and (max-width : 600px){
 
 .small-12.columns.left_column {
  	padding-right: 0%
@@ -304,7 +304,7 @@ margin-bottom: 2rem
 }
 
 
-@media only screen and (min-width : 1440px) and (max-width : 1600px) {
+@media screen and (min-width : 1440px) and (max-width : 1600px) {
 #inicio {
 
 	top:44%;
@@ -314,7 +314,7 @@ margin-bottom: 2rem
 }
 }
 
-@media only screen and (min-width : 1280px) and (max-width : 1440px) {
+@media screen and (min-width : 1280px) and (max-width : 1440px) {
 #inicio {
 
 	top:42%;
@@ -325,7 +325,7 @@ margin-bottom: 2rem
 }
 
 
-@media only screen and (min-width : 1024px) and (max-width : 1280px) {
+@media screen and (min-width : 1024px) and (max-width : 1280px) {
 #inicio {
 
 	top:34%;
@@ -335,7 +335,7 @@ margin-bottom: 2rem
 }
 }
 
-@media only screen and (min-width : 980px) and (max-width : 1024px) {
+@media screen and (min-width : 980px) and (max-width : 1024px) {
 #inicio {
 
 	top:40%;
@@ -345,7 +345,7 @@ margin-bottom: 2rem
 }
 }
 
-@media only screen and (min-width : 900px) and (max-width : 980px) {
+@media screen and (min-width : 900px) and (max-width : 980px) {
 #inicio {
 
 	top:22.5%;
@@ -356,7 +356,7 @@ margin-bottom: 2rem
 }
 
 
-@media only screen and (min-width : 800px) and (max-width : 900px) {
+@media screen and (min-width : 800px) and (max-width : 900px) {
 #inicio {
 
 	top:13.5%;
@@ -366,7 +366,7 @@ margin-bottom: 2rem
 }
 }
 
-@media only screen and (min-width : 768px) and (max-width : 800px) {
+@media screen and (min-width : 768px) and (max-width : 800px) {
 #inicio {
 
 	top:20%;
@@ -377,7 +377,7 @@ margin-bottom: 2rem
 }
 
 
-@media only screen and (min-width : 640px) and (max-width : 768px) {
+@media screen and (min-width : 640px) and (max-width : 768px) {
 #inicio {
 
 	top:18%;
@@ -387,7 +387,7 @@ margin-bottom: 2rem
 }
 }
 
-@media only screen and (min-width : 480px) and (max-width : 640px) {
+@media screen and (min-width : 480px) and (max-width : 640px) {
 #inicio {
 
 	top:19%;
@@ -397,7 +397,7 @@ margin-bottom: 2rem
 }
 }
 
-@media only screen and (min-width : 360px) and (max-width : 480px) {
+@media screen and (min-width : 360px) and (max-width : 480px) {
 #inicio {
 
 	top:43%;
@@ -407,7 +407,7 @@ margin-bottom: 2rem
 }
 }
 
-@media only screen and (min-width : 320px) and (max-width : 360px) {
+@media screen and (min-width : 320px) and (max-width : 360px) {
 #inicio {
 
 	top:20%;
@@ -417,7 +417,7 @@ margin-bottom: 2rem
 }
 }
 
-@media only screen and (max-width : 320px) {
+@media screen and (max-width : 320px) {
 #inicio {
 
 	top:26%;
@@ -478,7 +478,7 @@ margin-bottom: 2rem
 	margin: 2rem 0;
 }
 
-@media only screen and (min-width : 640px) and (max-width : 800px) {
+@media screen and (min-width : 640px) and (max-width : 800px) {
 
 #WHO-PICS > div {
 	margin: 0px;
@@ -507,7 +507,7 @@ img {
 	width: 100%;
 }
 
-@media only screen and (min-width : 480px) and (max-width : 640px) {
+@media screen and (min-width : 480px) and (max-width : 640px) {
 
 	#WHO-PICS div div.large-2.medium-2.small-4.columns.center_column {
 		margin-left: 0;
@@ -533,7 +533,7 @@ img {
 
 }
 
-@media only screen and (min-width : 320px) and (max-width : 480px) {
+@media screen and (min-width : 320px) and (max-width : 480px) {
 
 	#WHO-PICS div div.large-2.medium-2.small-4.columns.center_column {
 		margin-left: 0;
@@ -584,7 +584,7 @@ img {
 
 	
 
-@media only screen and (min-width : 1600px) {
+@media screen and (min-width : 1600px) {
 	#WHO-PICS > div > div.large-2.medium-2.small-4.columns{
 
 		width: 12%;
@@ -592,7 +592,7 @@ img {
 
 }
 
-/*@media only screen and (min-width : 768px) and (max-width : 1024px) {
+/*@media screen and (min-width : 768px) and (max-width : 1024px) {
 #WHO-PICS div div img {
 
 	height: 85%;
@@ -607,7 +607,7 @@ img {
 	text-align: center;
 }
 
-@media only screen and (min-width : 1600px) and (max-width: 1920px){
+@media screen and (min-width : 1600px) and (max-width: 1920px){
 .logo-track {
 	
 	margin-top: 3rem;
@@ -615,7 +615,7 @@ img {
 }
 }
 
-@media only screen and (min-width : 1024px) and (max-width : 1600px) {
+@media screen and (min-width : 1024px) and (max-width : 1600px) {
 .logo-track {
 	
 	margin-top: 2rem;
@@ -623,7 +623,7 @@ img {
 }
 }
 
-@media only screen and (min-width : 640px) and (max-width : 1024px) {
+@media screen and (min-width : 640px) and (max-width : 1024px) {
 .logo-track {
 	
 	margin-top: 2rem;
@@ -631,7 +631,7 @@ img {
 }
 }
 
-@media only screen and (min-width : 480px) and (max-width : 640px) {
+@media screen and (min-width : 480px) and (max-width : 640px) {
 .logo-track {
 	
 	margin-top: 2rem;
@@ -639,7 +639,7 @@ img {
 }
 }
 
-@media only screen and (min-width : 360px) and (max-width : 480px) {
+@media screen and (min-width : 360px) and (max-width : 480px) {
 
 .logo-track {
 	
@@ -647,7 +647,7 @@ img {
 	padding: 0rem 7rem;
 }
 }
-@media only screen and (min-width : 320px) and (max-width : 360px) {
+@media screen and (min-width : 320px) and (max-width : 360px) {
 
 .logo-track {
 	
@@ -684,7 +684,7 @@ button:hover, button:focus, .button:hover, .button:focus {
   color: #FFFFFF; }
 
 
-@media only screen and (min-width : 480px) and (max-width : 1024px) {
+@media screen and (min-width : 480px) and (max-width : 1024px) {
 button.large, .button.large {
 		
 	    padding-top: 0.90rem;
@@ -695,7 +695,7 @@ button.large, .button.large {
 	  
 }
 
-@media only screen and (min-width : 320px) and (max-width : 480px) {
+@media screen and (min-width : 320px) and (max-width : 480px) {
 	button.large, .button.large {
 			
 		    padding-top: 0.90rem;
@@ -719,11 +719,6 @@ button.large, .button.large {
 
 /*social*/
 
-#SOCIAL > div.large-4.columns.right_column > {
-
-	
-}
-
 
 #SOCIAL > div > h4 {
 	margin-top: 3rem;
@@ -746,14 +741,14 @@ meta.foundation-mq-topbar {
   width: 880px;
 }
 
-@media only screen and (min-width: 880px) {
+@media screen and (min-width: 880px) {
   .top-bar {
     background: #333333;
     overflow: visible; }
 }
 
 
-@media only screen and (min-width: 880px) {
+@media screen and (min-width: 880px) {
 .logo p{
   	color: #fff;
   	margin: 0.7rem 0 0 0.8rem;
@@ -762,7 +757,7 @@ meta.foundation-mq-topbar {
 
 }
 
-@media only screen and (max-width: 879px) {
+@media screen and (max-width: 879px) {
 	.logo p{
 		color: #fff;
 		margin:0;
@@ -772,7 +767,7 @@ meta.foundation-mq-topbar {
 }
 
 
-@media only screen and (max-width: 360px) {
+@media screen and (max-width: 360px) {
 	.logo p{
 		
 		
@@ -816,7 +811,7 @@ footer {
 	margin-top: 0.3rem;
 }
 
-@media only screen and (min-device-width : 320px) and (max-device-width : 640px) {
+@media screen and (min-device-width : 320px) and (max-device-width : 640px) {
 
 	footer {
 		height: 9rem;
@@ -831,7 +826,7 @@ img.foot_logo  {
 }
 
 
-@media only screen and (min-device-width : 320px) and (max-device-width : 640px) {
+@media screen and (min-device-width : 320px) and (max-device-width : 640px) {
 
 img.foot_logo  {
 	margin: 1.2rem 0 0.25rem 0;
@@ -871,7 +866,7 @@ img.in_button {
 
 }
 
-@media only screen and (min-width : 768px) and (max-width : 1024px) {
+@media screen and (min-width : 768px) and (max-width : 1024px) {
 
 
 .foot_text p {
@@ -885,13 +880,13 @@ img.in_button {
 	}
 }
 
-@media only screen and (min-width : 320px) and (max-width : 360px) {
+@media screen and (min-width : 320px) and (max-width : 360px) {
 	.small-left{
 	float: left !important;
 	}
 }
 
-@media only screen and (min-width : 480px) and (max-width : 640px) {
+@media screen and (min-width : 480px) and (max-width : 640px) {
 
 	.small-right{
 	position: relative;
@@ -900,7 +895,7 @@ img.in_button {
 	}
 }
 
-@media only screen and (min-width : 320px) and (max-width : 640px) {
+@media screen and (min-width : 320px) and (max-width : 640px) {
 
 
 	.foot_text p {
@@ -957,11 +952,7 @@ img.in_button {
 	height: 0 !important;
 }
 
-.owl-theme .owl-controls .owl-buttons div {
 
-	border-radius: 0px !important;
-
-}
 
 .owl-pagination {
 
@@ -970,11 +961,13 @@ img.in_button {
 
 .owl-theme .owl-controls .owl-buttons div {
 
+	
 	background: #ff4214 !important;
 	opacity: 1 !important;
 	font-size: 1rem !important;
 	font-family: 'dejavu_sansextralight';
 	padding:0.5rem 0.75rem !important;
+	border-radius: 0 !important;
 	
 }
 
